@@ -1,0 +1,1 @@
+# ET-TET-FB15k_and_ET-KGET
